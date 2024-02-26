@@ -1,5 +1,0 @@
-print("Mohit")
-len('mohit')
-type('mohit')
-max('mohit')
-print('________________')
