@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmohit9&show_icons=true&theme=dark&locale=en" alt="rmohit9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmohit9&theme=dark" alt="shrunalnimje" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmohit9&theme=dark" alt="rmohit9" /></p>
 
 <!---
 rmohit9/rmohit9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
